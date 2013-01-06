@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RJBalajiQuote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RJ Balaji</string>
+    <string name="generate_quote">Generate</string>
+    <string name="bio">RJ from basically a shy type, decent family share auto boy!!!</string>
+    <string name="app_header">RJ Balaji Says:</string>
+    <string name="app_credits">Original Idea by @vrraghy</string>
+    <string name="contribute"><a href="http://goo.gl/zY1c7">Click to contribute more quotes</a></string>
+
+</resources>
