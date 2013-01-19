@@ -1,6 +1,7 @@
 package com.apv.rjbalajiquote;
 
 import android.app.Activity;
+
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -20,7 +21,7 @@ public class MainActivity extends Activity implements
 		OnCreateOptionsMenuListener, OnOptionsItemSelectedListener {
 
 	String theRealQuote = "";
-	String sideDish = "( via @crosstalkbalaji )"; // theivaammeeee
+	String sideDish = "( via @RJ_Balaji )"; // theivaammeeee
 	TextView theRealQuoteTextView;
 	ShareActionProvider actionProvider;
 	Context context;
